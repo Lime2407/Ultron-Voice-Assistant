@@ -1,0 +1,8 @@
+faster-whisper==1.0.3
+TTS==0.22.0
+transformers==4.42.2
+pedalboard==0.9.14
+sounddevice==0.4.6
+numpy<2.0
+requests==2.31.0
+imageio-ffmpeg

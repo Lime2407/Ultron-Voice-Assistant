@@ -1,0 +1,28 @@
+# Виртуальное окружение
+venv/
+venv1/
+.venv/
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
+
+# Тяжёлые модели (скачиваются через download_model.py)
+xtts_v2_local/
+
+# Личные данные: голос и записи
+reference_voice.wav
+altron_voice.pt
+my_voice.*
+*.mp3
+*.mp4
+*.m4a
+*.ogg
+
+# Сгенерированные тестовые файлы
+test_raw.wav
+test_altron.wav
+reply_raw.wav
+reply_altron.wav
